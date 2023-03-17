@@ -1,0 +1,16 @@
+use Hotel5;
+insert into rooms values (1, 'lux', 1);
+insert into rooms values (2, 'standart', 2);
+insert into rooms values (3, 'family', 3);
+insert into rooms values (4, 'lux', 4);
+insert into rooms values (5, 'lux', 5);
+insert into rooms values (6, 'standart', 6);
+insert into rooms values (7, 'family', 7);
+insert into rooms values (8, 'standart', 8);
+insert into rooms values (9, 'family', 9);
+insert into rooms values (10, 'lux', 10);
+insert into rooms values (11, 'lux', 11);
+insert into rooms values (12, 'family', 12);
+insert into rooms values (13, 'standart', 13);
+insert into rooms values (14, 'lux', 14);
+insert into rooms values (15, 'family', 15);
